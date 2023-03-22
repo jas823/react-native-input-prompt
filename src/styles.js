@@ -40,7 +40,7 @@ export default StyleSheet.create({
 		...Platform.select({
 			ios: {
 				borderRadius: 15,
-				backgroundColor: "rgba(166, 170, 172, 0.9)"
+				backgroundColor: "rgb(166, 170, 172)"
 			},
 			android: {}
 		})
