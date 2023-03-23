@@ -9,7 +9,6 @@ export default StyleSheet.create({
 	dialogPrompt: {
 		...Platform.select({
 			ios: {
-				opacity: 0.9,
 				backgroundColor: "rgb(222,222,222)",
 				borderRadius: 15
 			},
